@@ -2,7 +2,7 @@
 
 set -e
 
-[ "$1" ] || ( echo "Need archive name"; exit 1 )
+[ "$1" ] || ( echo "Missing archive name!"; exit 1 )
 [ -d /mnt/src ] || ( echo "Mount source directory to /mnt/src!"; exit 1 )
 [ -d /mnt/dst ] || ( echo "Mount destionation directory to /mnt/dst!"; exit 1)
 
