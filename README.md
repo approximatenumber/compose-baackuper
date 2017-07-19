@@ -1,6 +1,8 @@
 # compose-backuper
 Little image for backing up mounted volumes (automatically).
 
+This image is for using inside [compose-backuper-script](https://github.com/approximatenumber/compose-backuper-script)
+
 ### Usage
 
 To automatically backup mount dir to backup to `/mnt/src` and destination directory to `/mnt/dst`.
