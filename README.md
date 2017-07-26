@@ -11,6 +11,6 @@ Also you need to add argument for name of backup. For example, `my_service`.
 
 Run:
 
-`docker run -v /opt/app:/mnt/src -v /mnt/disc:/mnt/dst --rm bp-test my_service`
+`docker run -v /opt/app:/mnt/src -v /mnt/disc:/mnt/dst --rm compose-backuper my_service`
 
 You\`ll find `/mnt/disc/my_service.tar.gz`.
