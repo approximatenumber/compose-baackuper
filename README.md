@@ -1,7 +1,7 @@
 # compose-backuper
 Little image for backing up mounted volumes (automatically).
 
-This image is for using inside [compose-backuper-script](https://github.com/approximatenumber/compose-backuper-script)
+**This image is for using inside [compose-backuper-script](https://github.com/approximatenumber/compose-backuper-script)**
 
 ### Usage
 
