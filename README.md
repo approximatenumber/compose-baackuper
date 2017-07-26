@@ -1,7 +1,8 @@
 # compose-backuper
 Little image for backing up mounted volumes (automatically).
 
-**This image is for using inside [compose-backuper-script](https://github.com/approximatenumber/compose-backuper-script)**
+**This image is for using inside [compose-backuper-script](https://github.com/approximatenumber/compose-backuper-script)! 
+Please use it if you want to backup your named volumes from docker-compose.yml**
 
 ### Usage
 
